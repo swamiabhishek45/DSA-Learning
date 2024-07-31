@@ -1,10 +1,10 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main()
 {
-    
-    cout<<"Namaste Duniya"<<endl;
+
+    cout << "Namaste Duniya" << endl;
 
     // *****Datatypes*****
 
@@ -29,15 +29,13 @@ int main()
     // cout <<"Size of f is: "<<size2<<endl;
 
     // *****TypeCasting*****
-    
+
     // char ch1 = 1234567;
     // cout << ch1 << endl;
 
     // unsigned int a = 223; // Right
     // unsigned int a = -223; // Wrong
     // cout << a << endl;
-
-    
 
     // float a = 6.0/5;
     // cout << a << endl;
