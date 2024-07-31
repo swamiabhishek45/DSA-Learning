@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// ans =  Prod - sum
+
 int main()
 {
     int n;

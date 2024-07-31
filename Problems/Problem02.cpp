@@ -2,6 +2,8 @@
 #include<math.h>
 using namespace std;
 
+// reverse number
+
 int main()
 {
     int n;
